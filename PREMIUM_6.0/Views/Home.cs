@@ -634,7 +634,7 @@ namespace PREMIUM_6._0.Views
             if (Fscope4x.Checked)
             {
                 aimfov.EnableAimfov();
-            }
+            else
         }
         private void Fnorecoil_Click(object sender, EventArgs e)
         {
